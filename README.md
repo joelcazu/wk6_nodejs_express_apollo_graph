@@ -1,26 +1,26 @@
 
-//Express and Mongoose 
+//Express and Mongoose:  
 npm i -y express mongoose
 
-//Nodemon
+//Nodemon: 
 npm install --save-dev nodemon
 
-//Apollo 
+//Apollo:  
 npm i apollo-server-express  
 
-//Grapghql
+//Grapghql : 
 
 npm i graphql
 
-// Connect/Express middleware
+// Connect/Express middleware: 
 
 npm install cors
 
-//Dotenv is a zero-dependency module that loads environment variables from a .env
+//Dotenv is a zero-dependency module that loads environment variables from a .env: 
 
 npm install dotenv --save
 
-//Node.js body parsing middleware
+//Node.js body parsing middleware:
 
 npm install body-parser
 
